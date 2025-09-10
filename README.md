@@ -42,5 +42,6 @@ pip install python-dotenv langchain langchain-openai langchain-community langcha
 
 ## 💡 Exemplo de Uso
 1. Coloque seus arquivos PDF na pasta `base/`
-2. Execute `Criardb.py` para criar o banco
-3. Execute `main.py` e faça perguntas no terminal
+2. Crie um arquivo .env e digite OPENAI_API_KEY = cole sua chave api da openai. 
+3. Execute `Criardb.py` para criar o banco
+4. Execute `main.py` e faça perguntas no terminal
